@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustav</h1>
 <h3 align="center">Indiana Jones of Full Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deka27&label=Profile%20views&color=0e75b6&style=flat" alt="deka27" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deka27" alt="deka27" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deka27](https://github.com/deka27)
