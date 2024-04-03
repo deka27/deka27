@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; ">
-    <img src="https://github.com/deka27/gitresources/blob/main/images/jTNG3RF6EwbkpD4LZx.gif" alt="painting" height="600" style="width: 100%; max-width: 100%;" />
+    <img src="https://github.com/deka27/gitresources/blob/main/images/jTNG3RF6EwbkpD4LZx.gif" alt="painting" height="500" style="width: 100%; max-width: 100%;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Kaustav</h1>
