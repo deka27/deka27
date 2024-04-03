@@ -29,7 +29,7 @@
 | ----------- | ----------- |
 | Web     | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,nodejs,expressjs,flask)](https://skillicons.dev) |
 | Database, ORM     | [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,drizzle)](https://skillicons.dev) |
-| Languages     | [![My Skills](https://skillicons.dev/icons?i=js,py,)](https://skillicons.dev) |
+| Languages     | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,)](https://skillicons.dev) |
 | Design, 3D     | [![My Skills](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,xd,pr,)](https://skillicons.dev) |
 | Mobile     | [![My Skills](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev) |
 
