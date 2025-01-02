@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Developer, ML Enthusiast.</h3>
 
 - 🚀 I am currently learning CUDA programming and Graphics Programming with OpenGL.
-- 
+
 ***
 
 <h3 align="left">Languages and Tools:</h3>
