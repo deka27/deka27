@@ -6,9 +6,7 @@
 <h3 align="center">Full Stack Developer, ML Enthusiast.</h3>
 
 - 🚀 I am currently learning CUDA programming and Graphics Programming with OpenGL.
-
-- 👨‍💻 All of my projects are available at [https://github.com/deka27](https://github.com/deka27)
-
+- 
 ***
 
 <h3 align="left">Languages and Tools:</h3>
